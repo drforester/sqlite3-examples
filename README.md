@@ -10,4 +10,4 @@ Below we'll go through some practical exercises with a simple dataset. I'll assu
 
 Using sqlite3 from Python liberates me from the pain of setting-up and maintaining a client/server SQL database engine such as MySQL, or PostgreSQL. SQLite has a command-line interface, however since most data scientists will want to do further analysis on their query results, it makes sense to learn it from within the context of the Python interpreter. Whether you are just learning SQL and want to practice for that Data Scientist interview, or whether you have SQL experience and just want to see if sqlite3 has what you require, I hope you'll find these examples helpful.
 
-__[CLICK HERE TO BEGIN USING THE NOTEBOOK](./StarForceAnalysis.ipynb).__
+__[CLICK HERE TO READ THE NOTEBOOK](./StarForceAnalysis.ipynb).__
